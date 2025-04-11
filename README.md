@@ -12,7 +12,7 @@ untill my friend Khaled pointed me to the right direction to learn python
 I have learned python from a youtuber called "codezilla" Here is a link to his account "https://www.youtube.com/@Codezilla".
 He is an amazing tutor,You should try him.
 Iam now an advanced programmer,I love my tutors because they teach with a way that you can understand not in the way they want you to understand
-
+Hint you need to download all the files for it to work!
 
 # My projects
 I Have done many projects.
