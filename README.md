@@ -12,7 +12,6 @@ untill my friend Khaled pointed me to the right direction to learn python
 I have learned python from a youtuber called "codezilla" Here is a link to his account "https://www.youtube.com/@Codezilla".
 He is an amazing tutor,You should try him.
 Iam now an advanced programmer,I love my tutors because they teach with a way that you can understand not in the way they want you to understand
-Hint you need to download all the files for it to work!
 
 # My projects
 I Have done many projects.
@@ -28,3 +27,4 @@ I Have done many projects.
   I recreated it but with my own way.
   with the help of my tutor ofcourse.
   Here is the link to the game if you wnat to try it "https://github.com/Coder6-hl/Who-wants-to-be-a-millionare.git"
+  Hint you need to download all the files for it to work!
