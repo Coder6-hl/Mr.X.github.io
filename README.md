@@ -28,3 +28,6 @@ I Have done many projects.
   with the help of my tutor ofcourse.
   Here is the link to the game if you wnat to try it "https://github.com/Coder6-hl/Who-wants-to-be-a-millionare.git"
   Hint you need to download all the files for it to work!
+# Is this the end?
+There are more projects i have done but I'm not going to list it all.
+but there is more comming and it will be useful I hope.
