@@ -1,5 +1,4 @@
-# Mr.X.github.io
-Showcase of my work.
+# Welcome
 Welcome to my Repositry.
 Iam Mr.X the owner of this repositry.
 Iam a programmer that started a course with a company called "Vortex".
